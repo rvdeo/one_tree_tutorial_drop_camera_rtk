@@ -1,4 +1,4 @@
-# Data processing Workshop
+# Data processing Workshop (Drop Camera / RTK)
 
 This notebook can be accessed via binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rvdeo/one_tree_tutorial_drop_camera_rtk.git/main)
 
